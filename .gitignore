@@ -15,6 +15,7 @@ android-app/.gradle/
 android-app/**/build/
 android-app/local.properties
 *.apk
+!releases/*.apk
 *.aab
 *.iml
 .idea/

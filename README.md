@@ -15,7 +15,10 @@ Gençlik ve Spor Bakanlığı (`biz.gsb.gov.tr`) KYK yurt öğrencilerinin e-Dev
 
 ## 1. Android Uygulaması (`android-app/`)
 
-### Gereksinimler
+Hazır imzalı Release APK dosyasını doğrudan indirip kurabilirsiniz:
+- [releases/gsbhizliizin-v1.0.0.apk](releases/gsbhizliizin-v1.0.0.apk)
+
+### Gereksinimler (Kendiniz Derlemek İsterseniz)
 - JDK 17+ (JDK 21 ile test edildi)
 - Android SDK (`platforms;android-35`, `build-tools;35.0.0`, `platform-tools`)
 - Gradle veya Android Studio
